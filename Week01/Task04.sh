@@ -1,4 +1,5 @@
 # - Identify the operating systems used by the devices on the network using OS detection (`-O` flag).
+
 ┌──(kali㉿Kali)-[~]
 └─$ sudo nmap -O 10.5.5.1                                                                                                                                                                                                                   
 Starting Nmap 7.94 ( https://nmap.org ) at 2024-09-22 10:04 UTC
