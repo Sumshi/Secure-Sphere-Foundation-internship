@@ -1,5 +1,6 @@
 # Use Nmap's vulnerability scanning scripts to identify common vulnerabilities on a selected host (`nmap --script vuln <target-IP>`).
 
+
 ┌──(kali㉿Kali)-[~]
 └─$ nmap --script vuln 10.5.5.1                                                                                                                                                                                   Starting Nmap 7.94 ( https://nmap.org ) at 2024-09-22 10:28 UTC                                                                                                                                                   
 Nmap scan report for 10.5.5.1                                                                                                                                                                                     
