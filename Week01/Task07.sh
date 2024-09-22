@@ -1,5 +1,6 @@
 # - Use Nikto to scan a selected web server or application (`nikto -h <target-IP or domain>`).
 
+
 ┌──(kali㉿Kali)-[~]
 └─$ nikto -h 10.5.5.11
 - Nikto v2.5.0
