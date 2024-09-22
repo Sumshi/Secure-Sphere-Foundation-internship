@@ -2,6 +2,7 @@
 # - Perform banner grabbing and version detection on the open ports and services identified in Task 1 using Nmap's `-sV` option.
 # - Provide a summary of each service version identified, and any known vulnerabilities associated with these versions.
 
+
 ┌──(kali㉿Kali)-[~]
 └─$ sudo nmap -sV 10.5.5.1                                                                                                                                                                                        
 [sudo] password for kali: 
