@@ -1,4 +1,5 @@
 # Identify all active hosts on the network.
+
 ┌──(kali㉿Kali)-[~]
 └─$ nmap  10.5.5.1/24                                                                                                                                                                                             
 Starting Nmap 7.94 ( https://nmap.org ) at 2024-09-22 08:30 UTC
