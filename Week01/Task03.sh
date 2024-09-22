@@ -1,4 +1,5 @@
 # - List the open ports and running services for each host.
+
 ┌──(kali㉿Kali)-[~]
 └─$ nmap -sV 10.5.5.0/24                                                                                                                                                                                          
 Starting Nmap 7.94 ( https://nmap.org ) at 2024-09-22 09:50 UTC
